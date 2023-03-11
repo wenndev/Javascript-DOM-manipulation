@@ -62,18 +62,18 @@
      - [x]  .append() / .appendChild() - adiciona elementos depois
      - [x]  .prepend() - adiciona elementos antes
 ### Eventos
-- [ ]  .addEventListener()
-    - [ ]  load
-    - [ ]  click
-    - [ ]  scroll
-    - [ ]  keydown
-    - [ ]  change
-    - [ ]  submit
--   [ ]  event
-    - [ ]  target
-        - [ ]  id
-        - [ ]  className
-    - [ ]  type
-    - [ ]  clientX / clientY (relative to document)
-    - [ ]  offsetX / offsetY (relative to element)
-    - [ ]  preventDefault()
+- [x]  .addEventListener()
+    - [x]  load
+    - [x]  click
+    - [x]  scroll
+    - [x]  keydown
+    - [x]  change
+    - [x]  submit
+-   [x]  event
+    - [x]  target
+        - [x]  id
+        - [x]  className
+    - [x]  type
+    - [x]  clientX / clientY (relative to document)
+    - [x]  offsetX / offsetY (relative to element)
+    - [x]  preventDefault()
